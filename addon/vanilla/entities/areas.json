@@ -1,0 +1,467 @@
+[
+  {
+    "Name": "淪敦",
+    "Description": "淪敦！幽深，晦暗，令人嘆奇。所有航行從此出發：成功的航行，也在此終結。",
+    "ImageName": "fallenlondon_port",
+    "Id": 100321
+  },
+  {
+    "Name": "REUSE",
+    "Description": "淪敦",
+    "ImageName": "city",
+    "MoveMessage": "你移動到了新的區域",
+    "Id": 100369
+  },
+  {
+    "Name": "聲音之海",
+    "Description": "聲音之海",
+    "ImageName": "fish",
+    "MoveMessage": "你移動到了新的區域",
+    "Id": 100370
+  },
+  {
+    "Name": "玉髓港",
+    "Description": "淪敦唯一的帝國領地。珍而重之。",
+    "ImageName": "portcarnelian_port",
+    "MoveMessage": "你移動到了新的區域",
+    "Id": 100371
+  },
+  {
+    "Name": "亞當之路",
+    "Description": "巨大的廢墟之上，蕈木搭建的倉庫與驛站拔地而起。",
+    "ImageName": "adamscape_port",
+    "MoveMessage": "你移動到了新的區域",
+    "Id": 100372
+  },
+  {
+    "Name": "鐵鑄共和國",
+    "Description": "地獄的附庸國。當心。他們的律法，非人之律，非自然之法。",
+    "ImageName": "ironrepublic",
+    "MoveMessage": "你移動到了新的區域",
+    "Id": 100373
+  },
+  {
+    "Name": "墓地殖民地",
+    "Description": "在淪敦，死亡並非易事。於是他們來到這裡。",
+    "ImageName": "venderbight",
+    "MoveMessage": "你移動到了新的區域",
+    "Id": 100374
+  },
+  {
+    "Name": "德莫島",
+    "Description": "熾熱的真菌叢林。",
+    "ImageName": "demeauxisland_port",
+    "MoveMessage": "你移動到了新的區域",
+    "Id": 100488
+  },
+  {
+    "Name": "海澤",
+    "Description": "大地之下的水域。",
+    "ImageName": "shipwheel",
+    "MoveMessage": "你移動到了新的區域",
+    "Id": 101925
+  },
+  {
+    "Name": "邊境",
+    "ImageName": "generic_port",
+    "MoveMessage": "你移動到了新的區域",
+    "Id": 101956
+  },
+  {
+    "Name": "何方",
+    "Description": "荒鹽廢原旁的寒涼之城。",
+    "ImageName": "whither_port",
+    "MoveMessage": "你已進港。",
+    "Id": 101979
+  },
+  {
+    "Name": "光之禮拜堂",
+    "Description": "你聽見音樂了嗎？",
+    "ImageName": "chapeloflights_port",
+    "MoveMessage": "你已進港。",
+    "Id": 101980
+  },
+  {
+    "Name": "鰲阜",
+    "Description": "龜殼，廣如瘋狂的夢？",
+    "ImageName": "chelonate_port",
+    "MoveMessage": "你已進港。",
+    "Id": 101981
+  },
+  {
+    "Name": "海盜林（西）",
+    "Description": "小心落腳。",
+    "ImageName": "corsairsforest_port",
+    "MoveMessage": "你已進港。",
+    "Id": 101982
+  },
+  {
+    "Name": "哭泣高地",
+    "Description": "甜野的芬芳，與更狂野的哭聲。",
+    "ImageName": "wolfstack",
+    "MoveMessage": "你已進港。",
+    "Id": 101983
+  },
+  {
+    "Name": "大晶洞",
+    "Description": "遠處飄來歌聲，如蜃景。",
+    "ImageName": "grandgeode_port",
+    "MoveMessage": "你已進港。",
+    "Id": 101984
+  },
+  {
+    "Name": "手部帝國",
+    "Description": "猿猴們飢渴地注視著你。",
+    "ImageName": "empireofhands_port",
+    "MoveMessage": "你已進港。",
+    "Id": 101985
+  },
+  {
+    "Name": "羽毛港",
+    "Description": "血腥與蝙蝠糞的氣味，濃郁而難稱悅人。",
+    "ImageName": "wolfstack",
+    "MoveMessage": "你已進港。",
+    "Id": 101986
+  },
+  {
+    "Name": "伊雷姆",
+    "Description": "從無人能如實道出此地。",
+    "ImageName": "irem_port",
+    "MoveMessage": "你已進港。",
+    "Id": 101987
+  },
+  {
+    "Name": "可汗榮光",
+    "Description": "莊嚴孤絕之地。",
+    "ImageName": "khansglory_port",
+    "MoveMessage": "你已進港。",
+    "Id": 101988
+  },
+  {
+    "Name": "可汗之心",
+    "Description": "倫敦的勁敵。",
+    "ImageName": "khansheart_port",
+    "MoveMessage": "你已進港。",
+    "Id": 101989
+  },
+  {
+    "Name": "可汗之影",
+    "Description": "那座曾經游動的城市。",
+    "ImageName": "khansshadow_port",
+    "MoveMessage": "你已進港。",
+    "Id": 101990
+  },
+  {
+    "Name": "噬王之堡",
+    "Description": "迴聲穿過柱廊，如影隨形。",
+    "ImageName": "kingeaterscastle_port",
+    "MoveMessage": "你已進港。",
+    "Id": 101991
+  },
+  {
+    "Name": "帕默斯頓山",
+    "Description": "硫磺。永遠是硫磺。",
+    "ImageName": "portpalmerston",
+    "MoveMessage": "你已進港。",
+    "Id": 101992
+  },
+  {
+    "Name": "農西歐",
+    "Description": "勿退回，寄件者。",
+    "ImageName": "nuncio_port",
+    "MoveMessage": "你已進港。",
+    "Id": 101993
+  },
+  {
+    "Name": "塞西爾港",
+    "Description": "無源的銀色光芒。棋手的天堂。",
+    "ImageName": "principlesofcoral_port",
+    "MoveMessage": "你已進港。",
+    "Id": 101994
+  },
+  {
+    "Name": "淵王之堡",
+    "Description": "洛金斯港：以最有進取心的溺魂命名。磷光胞燃著綠焰。某處深淵之下，王在等候。",
+    "ImageName": "fathomkingshold_port",
+    "MoveMessage": "你已進港。",
+    "Id": 101996
+  },
+  {
+    "Name": "鹽獅",
+    "Description": "空洞的雙眼之中，棲居著浩渺的悲愴。",
+    "ImageName": "saltlions_port",
+    "MoveMessage": "你已進港。",
+    "Id": 101997
+  },
+  {
+    "Name": "救世主礁岩",
+    "Description": "它們不停移動的聲音，如海灘上的卵石……",
+    "ImageName": "gossamerway_port",
+    "MoveMessage": "你已進港。",
+    "Id": 101998
+  },
+  {
+    "Name": "融蝕群島",
+    "Description": "此地潛伏著背叛。",
+    "ImageName": "generic_port",
+    "MoveMessage": "你已進港。",
+    "Id": 101999
+  },
+  {
+    "Name": "萬嚎之境",
+    "Description": "此地，盡是尖叫。",
+    "ImageName": "polythreme_port",
+    "MoveMessage": "你已進港。",
+    "Id": 102000
+  },
+  {
+    "Name": "羊島",
+    "Description": "山腰上有火光……",
+    "ImageName": "muttonisland_port",
+    "MoveMessage": "你已進港。",
+    "Id": 102001
+  },
+  {
+    "Name": "獵人塔樓",
+    "Description": "靜謐的島嶼；古舊而宏偉的宅邸。",
+    "ImageName": "hunterskeep_port",
+    "MoveMessage": "你已進港。",
+    "Id": 102002
+  },
+  {
+    "Name": "貓島",
+    "Description": "玫瑰盛開之地。",
+    "ImageName": "isleofcats_port",
+    "MoveMessage": "你已進港。",
+    "Id": 102003
+  },
+  {
+    "Name": "面容島",
+    "Description": "藏好你的臉！藏好你所有的臉。",
+    "ImageName": "visage_port",
+    "MoveMessage": "你已進港。",
+    "Id": 102004
+  },
+  {
+    "Name": "--?",
+    "Description": "--?",
+    "ImageName": "wolfstack",
+    "MoveMessage": "你已進港。",
+    "Id": 102005
+  },
+  {
+    "Name": "瘤節",
+    "Description": "你帶來血肉的贈禮了嗎？",
+    "ImageName": "wolfstack",
+    "MoveMessage": "你已進港。",
+    "Id": 102006
+  },
+  {
+    "Name": "黎明機器",
+    "ImageName": "dawnmachine",
+    "MoveMessage": "你移動到了新的區域",
+    "Id": 102133
+  },
+  {
+    "Name": "縛遮娑",
+    "Description": "鏡城，此地光明永為律法……",
+    "ImageName": "varchas_port",
+    "MoveMessage": "你移動到了新的區域",
+    "Id": 102386
+  },
+  {
+    "Name": "三號站",
+    "Description": "由此可推斷一號與二號站的存在。或許還有四號站。",
+    "ImageName": "stationIII_port",
+    "MoveMessage": "你移動到了新的區域",
+    "Id": 102387
+  },
+  {
+    "Name": "羅布蘭",
+    "Description": "[代稱]",
+    "ImageName": "generic_port",
+    "MoveMessage": "你移動到了新的區域",
+    "Id": 102388
+  },
+  {
+    "Name": "---?",
+    "ImageName": "generic_port",
+    "MoveMessage": "你移動到了新的區域",
+    "Id": 102389
+  },
+  {
+    "Name": "典籍島",
+    "Description": "答案之島。",
+    "ImageName": "generic_port",
+    "MoveMessage": "你移動到了新的區域",
+    "Id": 102623
+  },
+  {
+    "Name": "牧羊人群島",
+    "Description": "羊群，地衣，豎立的石塊。",
+    "ImageName": "generic_port",
+    "MoveMessage": "你移動到了新的區域",
+    "Id": 102768
+  },
+  {
+    "Name": "修道院礁岩",
+    "Description": "冷酷的姊妹們盤踞於此。",
+    "ImageName": "abbeyrock_port",
+    "MoveMessage": "你移動到了新的區域",
+    "Id": 102769
+  },
+  {
+    "Name": "渴望的地平線",
+    "Description": "此乃終結之地。",
+    "ImageName": "avidhorizon_port",
+    "MoveMessage": "你移動到了新的區域",
+    "Id": 102784
+  },
+  {
+    "Name": "豬鼠島",
+    "Description": "兩大世家，各擁榮光。",
+    "ImageName": "generic_port",
+    "MoveMessage": "你移動到了新的區域",
+    "Id": 102804
+  },
+  {
+    "Name": "古邁運河集結區",
+    "Description": "此地，地表黑暗的水向下奔湧，來自更明亮的海……",
+    "ImageName": "cumaeancanal_port",
+    "MoveMessage": "你移動到了新的區域",
+    "Id": 102832
+  },
+  {
+    "Name": "燈塔船",
+    "Description": "遠離家鄉。",
+    "ImageName": "lightship_port",
+    "MoveMessage": "你移動到了新的區域",
+    "Id": 102849
+  },
+  {
+    "Name": "神落",
+    "Description": "有時——僅是偶爾——天頂的碎片會落下。慶幸你不在那一塊落下的時候。",
+    "ImageName": "Godfall_port",
+    "MoveMessage": "你移動到了新的區域",
+    "Id": 102852
+  },
+  {
+    "Name": "地表",
+    "Description": "陽光傾瀉如雨。偶爾，雨也如此傾瀉。",
+    "ImageName": "generic_port",
+    "MoveMessage": "你移動到了新的區域",
+    "Id": 102882
+  },
+  {
+    "Name": "極蕈之境",
+    "Description": "這片孢子肆虐之海的女王核心。",
+    "ImageName": "uttershroom_port",
+    "MoveMessage": "你移動到了新的區域",
+    "Id": 102960
+  },
+  {
+    "Name": "紅樹學院",
+    "Description": "智者與惡人皆在此尋庇護，果實豐盛，林木荒野。",
+    "ImageName": "generic_port",
+    "MoveMessage": "你移動到了新的區域",
+    "Id": 103246
+  },
+  {
+    "Name": "夜曲號殘骸",
+    "Description": "籠於暗影，纏以蛛網……",
+    "ImageName": "nocturne",
+    "MoveMessage": "你移動到了新的區域",
+    "Id": 103869
+  },
+  {
+    "Name": "智慧",
+    "Description": "監獄的高牆，無情地陡峭。",
+    "ImageName": "seaoflilies_port",
+    "MoveMessage": "你移動到了新的區域",
+    "Id": 103958
+  },
+  {
+    "Name": "北方",
+    "MoveMessage": "你移動到了新的區域",
+    "Id": 104180
+  },
+  {
+    "Name": "東方",
+    "MoveMessage": "你移動到了新的區域",
+    "Id": 104181
+  },
+  {
+    "Name": "西南方",
+    "MoveMessage": "你移動到了新的區域",
+    "Id": 104182
+  },
+  {
+    "Name": "夏宴島",
+    "ImageName": "aestival_port",
+    "MoveMessage": "你移動到了新的區域",
+    "Id": 104204
+  },
+  {
+    "Name": "霜鑄之境",
+    "ImageName": "frostfound_port",
+    "MoveMessage": "你移動到了新的區域",
+    "Id": 104276
+  },
+  {
+    "Name": "霜鑄之境廊道",
+    "MoveMessage": "你移動到了新的區域",
+    "Id": 104526
+  },
+  {
+    "Name": "鬼火小徑",
+    "MoveMessage": "你移動到了新的區域",
+    "Id": 104545
+  },
+  {
+    "Name": "破碎城堡",
+    "MoveMessage": "你移動到了新的區域",
+    "Id": 104546
+  },
+  {
+    "Name": "維也納",
+    "ImageName": "generic_port",
+    "MoveMessage": "你移動到了新的區域",
+    "Id": 104588
+  },
+  {
+    "Name": "葬禮",
+    "ImageName": "chart",
+    "MoveMessage": "終局將至……",
+    "Id": 105136
+  },
+  {
+    "Name": "酒杯",
+    "ImageName": "chart",
+    "MoveMessage": "終局將至……",
+    "Id": 105137
+  },
+  {
+    "Name": "王國",
+    "ImageName": "chart",
+    "MoveMessage": "終局將至……",
+    "Id": 105138
+  },
+  {
+    "Name": "化身海澤巨獸",
+    "ImageName": "chart",
+    "MoveMessage": "終局將至……",
+    "Id": 105139
+  },
+  {
+    "Name": "星門",
+    "ImageName": "chart",
+    "MoveMessage": "終局將至……",
+    "Id": 105140
+  },
+  {
+    "Name": "飛船",
+    "ImageName": "chart",
+    "MoveMessage": "終局將至……",
+    "Id": 105141
+  }
+]

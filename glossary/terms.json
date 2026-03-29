@@ -1,0 +1,1207 @@
+[
+  {
+    "en": "Fallen London",
+    "tc": "淪敦",
+    "notes": "陷落後的倫敦，一個諧音：淪（沉淪）。談及陷落前的倫敦時仍用「倫敦」"
+  },
+  {
+    "en": "London (pre-Fall)",
+    "tc": "倫敦",
+    "notes": "陷落前的歷史指稱，例如「三十年前的倫敦」、「第六城」等語境"
+  },
+  {
+    "en": "Unterzee",
+    "tc": "海澤",
+    "notes": "德語 Unter + 荷蘭語 Zee，地底之海，音意合一"
+  },
+  {
+    "en": "zee",
+    "tc": "海澤",
+    "notes": "地底之海的泛稱"
+  },
+  {
+    "en": "the Neath",
+    "tc": "尼斯",
+    "notes": "音譯，beneath 縮略，傳遞異質感。地底世界統稱"
+  },
+  {
+    "en": "the Bazaar",
+    "tc": "集市",
+    "notes": "墮落倫敦核心機構"
+  },
+  {
+    "en": "the Masters",
+    "tc": "主人們",
+    "notes": "集市的神秘統治者"
+  },
+  {
+    "en": "POLYTHREME",
+    "tc": "萬嚎之境",
+    "notes": "poly（多）+ threnos（哀嚎），萬物皆有靈且皆在嚎叫之地"
+  },
+  {
+    "en": "Avid Horizon",
+    "tc": "渴望的地平線",
+    "notes": "意譯，遊戲中代表終點"
+  },
+  {
+    "en": "Tomb-Colonies",
+    "tc": "墓地殖民地",
+    "notes": "不死者的聚居地"
+  },
+  {
+    "en": "The Fathomking's Hold",
+    "tc": "淵王之堡",
+    "notes": "Fathomking = 淵王，fathom 兼有深度與理解之意"
+  },
+  {
+    "en": "Salt Lions",
+    "tc": "鹽獅",
+    "notes": "地名"
+  },
+  {
+    "en": "Iron Republic",
+    "tc": "鐵鑄共和國",
+    "notes": "地獄的附庸國"
+  },
+  {
+    "en": "Chelonate",
+    "tc": "鰲阜",
+    "notes": "Chelonia（龜鱉），過於巨大譯為鰲，表地名增譯阜。原譯「龜甲島」已棄用"
+  },
+  {
+    "en": "Kingeater's Castle",
+    "tc": "噬王之堡",
+    "notes": "意譯"
+  },
+  {
+    "en": "Khan's Glory",
+    "tc": "可汗榮光",
+    "notes": "可汗系列地名"
+  },
+  {
+    "en": "Khan's Heart",
+    "tc": "可汗之心",
+    "notes": "可汗系列地名"
+  },
+  {
+    "en": "Khan's Shadow",
+    "tc": "可汗之影",
+    "notes": "可汗系列地名，「曾經游動的城市」"
+  },
+  {
+    "en": "Pigmote Isle",
+    "tc": "豬鼠島",
+    "notes": "pig + mote，遊戲中豬派與鼠派兩族對立"
+  },
+  {
+    "en": "Uttershroom",
+    "tc": "極蕈之境",
+    "notes": "utter（極致）+ shroom（菇），孢子之海的核心"
+  },
+  {
+    "en": "Whither",
+    "tc": "何方",
+    "notes": "古英語「往何處」，IC 的絕妙譯名"
+  },
+  {
+    "en": "Melting Isles",
+    "tc": "融蝕群島",
+    "notes": "IC 錯譯，melting = 融化/蝕化"
+  },
+  {
+    "en": "Nuncio",
+    "tc": "農西歐",
+    "notes": "音譯，教廷使節站，「勿退回，寄件者」"
+  },
+  {
+    "en": "Cumaean Canal Staging Area",
+    "tc": "古邁運河集結區",
+    "notes": "Cumaean 源自古邁城（Cumae），地下世界入口典故"
+  },
+  {
+    "en": "Wisp-Ways",
+    "tc": "鬼火小徑",
+    "notes": "wisp = will-o-wisp 鬼火"
+  },
+  {
+    "en": "Irem",
+    "tc": "伊雷姆",
+    "notes": "音譯，洛夫克拉夫特典故，無人能如實道出之地"
+  },
+  {
+    "en": "Port Carnelian",
+    "tc": "玉髓港",
+    "notes": "carnelian = 玉髓（紅棕色半寶石），帝國唯一領地"
+  },
+  {
+    "en": "Varchas",
+    "tc": "縛遮娑",
+    "notes": "梵語 varcas = 光輝，以光明為律法的鏡城。梵文音譯保留原味"
+  },
+  {
+    "en": "Godfall",
+    "tc": "神落",
+    "notes": "天頂碎片隕落之地"
+  },
+  {
+    "en": "Abbey Rock",
+    "tc": "修道院礁岩",
+    "notes": "冷酷姊妹們的盤踞之地"
+  },
+  {
+    "en": "Aestival",
+    "tc": "夏宴島",
+    "notes": "拉丁語 aestas（夏天）+ Festival（節慶），熱帶島嶼的慷慨熱烈"
+  },
+  {
+    "en": "Visage",
+    "tc": "面容島",
+    "notes": "意譯，靈感來自傑克·萬斯《月亮飛蛾》；神壇臉孔名稱 Flourishing-of-Years → 年歲之盛"
+  },
+  {
+    "en": "Stamford's Expanse",
+    "tc": "斯坦福瀚海",
+    "notes": "Expanse 指海域，非陸地闊地"
+  },
+  {
+    "en": "Rattus Faber",
+    "tc": "巧匠鼠",
+    "notes": "掌握科學技術的特殊鼠類，L.B.（Little Bastard）是口頭稱呼"
+  },
+  {
+    "en": "Fluke",
+    "tc": "錨爪",
+    "notes": "來自崇高天野的放逐之星，能塑型，不限定形狀，尊重文本"
+  },
+  {
+    "en": "Jillyfleur",
+    "tc": "芙花水母",
+    "notes": "讀音梗自 gillyflower，半音譯半意譯"
+  },
+  {
+    "en": "high-souled apes",
+    "tc": "奪魂猿",
+    "notes": "手掌帝國的猿猴，擅長竊據靈魂"
+  },
+  {
+    "en": "Captain",
+    "tc": "船長",
+    "notes": "玩家角色稱謂"
+  },
+  {
+    "en": "Apocyan",
+    "tc": "起源藍",
+    "notes": "海澤六色之一。apo（離開/起源）+ cyan（藍綠），記憶與最亮的珊瑚之藍"
+  },
+  {
+    "en": "Peligin",
+    "tc": "黯澤黑",
+    "notes": "海澤六色之一。pelagus（海）+ fuligin（比黑更深之色），最深之海的顏色"
+  },
+  {
+    "en": "Violant",
+    "tc": "銘刻紺",
+    "notes": "海澤六色之一。violet/violent，紺色似紅非紅，血在尖頂之地流淌的顏色"
+  },
+  {
+    "en": "Irrigo",
+    "tc": "沒齒紫",
+    "notes": "海澤六色之一。拉丁 irrigo（淹沒/擴散），染遍被遺忘角落的紫"
+  },
+  {
+    "en": "Gant",
+    "tc": "枯寂褐",
+    "notes": "海澤六色之一。guant，所有顏色被吞噬後的遺骸，在陰影最多之處可見"
+  },
+  {
+    "en": "Cosmogone",
+    "tc": "宇宙金",
+    "notes": "海澤六色之一。cosmogony（天體演化）+ gone（消逝），記憶中太陽的顏色"
+  },
+  {
+    "en": "Viric",
+    "tc": "淺眠綠",
+    "notes": "海澤六色之一。鏡子背後的顏色，淺眠之色"
+  },
+  {
+    "en": "Drownies",
+    "tc": "溺魂",
+    "notes": "溺死於海澤的亡靈，在水中歌唱誘惑水手"
+  },
+  {
+    "en": "Snuffers",
+    "tc": "竊臉者",
+    "notes": "偷竊他人臉孔（皮膚）的怪物，以蠟燭為食"
+  },
+  {
+    "en": "animescence",
+    "tc": "靈燃症",
+    "notes": "上古大陸的靈魂燃燒之病，幹練的從軍者患有此症"
+  },
+  {
+    "en": "mutersalt",
+    "tc": "靜默鹽",
+    "notes": "能抑制靈燃症的特殊鹽，讓聲音麻木"
+  },
+  {
+    "en": "Pale Wastes",
+    "tc": "蒼白廢土",
+    "notes": "海澤的荒蕪地帶，靜默鹽的產地之一"
+  },
+  {
+    "en": "Stolen River",
+    "tc": "竊流河",
+    "notes": "淪敦地下的河流"
+  },
+  {
+    "en": "the Brisk Campaigner",
+    "tc": "幹練的從軍者",
+    "notes": "艦上醫官 NPC，患有靈燃症"
+  },
+  {
+    "en": "the Dapper Chap",
+    "tc": "瀟灑公子",
+    "notes": "艦上戀人 NPC"
+  },
+  {
+    "en": "the Likely Lass",
+    "tc": "靈巧少女",
+    "notes": "艦上戀人 NPC"
+  },
+  {
+    "en": "the Genial Magician",
+    "tc": "溫文的魔術師",
+    "notes": "艦上軍官 NPC"
+  },
+  {
+    "en": "the Sly Navigator",
+    "tc": "狡黠的領航員",
+    "notes": "艦上軍官 NPC，領航員"
+  },
+  {
+    "en": "the Tireless Mechanic",
+    "tc": "不倦的機械師",
+    "notes": "艦上軍官 NPC，機械師"
+  },
+  {
+    "en": "the Survivor",
+    "tc": "倖存者",
+    "notes": "艦上軍官 NPC，橡皮人（Rubbery Man）類型，又稱流亡者（Outcast）"
+  },
+  {
+    "en": "Grand Geode",
+    "tc": "大晶洞",
+    "notes": "礦洞地名，非玉髓港（Port Carnelian）"
+  },
+  {
+    "en": "Mirrorcatch Box",
+    "tc": "捕光鏡匣",
+    "notes": "可儲存陽光的裝置"
+  },
+  {
+    "en": "zailor",
+    "tc": "海員",
+    "notes": "海澤上的水手，zee+sailor 合字"
+  },
+  {
+    "en": "Parabola-Linen",
+    "tc": "寓言鏡亞麻",
+    "notes": "來自鏡後寓言國（Parabola）的布料"
+  },
+  {
+    "en": "Prisoner's Honey",
+    "tc": "囚徒之蜜",
+    "notes": "點燈蜂（lamplighter bee）從流亡玫瑰釀造的蜜"
+  },
+  {
+    "en": "Brimstone Convention",
+    "tc": "硫磺慣例公司",
+    "notes": "收購身體部位的神秘組織"
+  },
+  {
+    "en": "Spite",
+    "tc": "憎惡街",
+    "notes": "淪敦的一個地區"
+  },
+  {
+    "en": "Elder Continent",
+    "tc": "上古大陸",
+    "notes": "海澤南方的神秘大陸"
+  },
+  {
+    "en": "the Longshanks Gunner",
+    "tc": "長腿砲手",
+    "notes": "艦上軍官 NPC，砲手"
+  },
+  {
+    "en": "the Gall-Eyed Engineer",
+    "tc": "蠱眼工程師",
+    "notes": "艦上軍官 NPC，膽怒黃蜂幼蟲寄生於眼"
+  },
+  {
+    "en": "the Plausible Surgeon",
+    "tc": "圓滑外科醫生",
+    "notes": "艦上軍官 NPC，外科醫生"
+  },
+  {
+    "en": "the Shady Cook",
+    "tc": "陰暗廚師",
+    "notes": "艦上軍官 NPC，說話難以理解"
+  },
+  {
+    "en": "the Haunted Doctor",
+    "tc": "陰鬱的醫生",
+    "notes": "艦上軍官 NPC，無政府主義毒殺者背景；另有 Determined（堅定）/ Disillusioned（幻滅）狀態"
+  },
+  {
+    "en": "Frostfound",
+    "tc": "霜鑄之境",
+    "notes": "地名，海澤極北，海澤升起化為城堡之地"
+  },
+  {
+    "en": "Sea of Lilies",
+    "tc": "百合海",
+    "notes": "地名，海澤中東部"
+  },
+  {
+    "en": "Venderbight",
+    "tc": "文德比特",
+    "notes": "地名，亡者聚居的港口"
+  },
+  {
+    "en": "Fingerkings",
+    "tc": "指王",
+    "notes": "鏡後蛇形存在，與 Parabola（映象界）相關"
+  },
+  {
+    "en": "Calendar Council",
+    "tc": "曆法議會",
+    "notes": "無政府主義派系"
+  },
+  {
+    "en": "Dawn Machine",
+    "tc": "黎明機器",
+    "notes": "尼斯南方的神秘裝置，發出如陽光的強烈光芒"
+  },
+  {
+    "en": "blemmigans",
+    "tc": "布雷米根",
+    "notes": "蘑菇動物混合生物，能消化並重寫文字"
+  },
+  {
+    "en": "First City",
+    "tc": "第一城",
+    "notes": "集市帶入尼斯的第一座城市，複數用「諸城」"
+  },
+  {
+    "en": "scintillack",
+    "tc": "閃茲石",
+    "notes": "閃爍的裝飾礦石材料，燃燒時會尖叫"
+  },
+  {
+    "en": "the Merchant Venturer",
+    "tc": "商人冒險者",
+    "notes": "有完整故事線的 NPC，最終穿越渴望的地平線"
+  },
+  {
+    "en": "the Khanate",
+    "tc": "汗國",
+    "notes": "海澤中的可汗帝國；人民稱 Khaganians → 可汗人；可汗系列地名已收錄（可汗之心/可汗榮光/可汗之影）"
+  },
+  {
+    "en": "Gaider's Mourn",
+    "tc": "蓋德之哀",
+    "notes": "高崖地形，戰鬥時墜落即亡；短稱「the Mourn」亦譯「哀嶺」"
+  },
+  {
+    "en": "Taimen",
+    "tc": "太門",
+    "notes": "汗國相關的神秘族群，喜好溺珍珠（Drowning-Pearl）"
+  },
+  {
+    "en": "Codex",
+    "tc": "典冊",
+    "notes": "何方（Whither）的流亡者被放逐之處"
+  },
+  {
+    "en": "Wretched Mog",
+    "tc": "可憐之貓",
+    "notes": "玩家可攜帶的特殊貓咪夥伴，戰鬥中大顯身手"
+  },
+  {
+    "en": "Lorn-Fluke",
+    "tc": "孤寂錨爪",
+    "notes": "虛空中孤獨的錨爪，有獨特語言；觀察可觸發「虛空語文學」，使聽覺出現怪異空白"
+  },
+  {
+    "en": "Tree of Ages",
+    "tc": "萬年之樹",
+    "notes": "由無數哀愁蜘蛛構成的巨型生物，擊敗後可取其心臟"
+  },
+  {
+    "en": "sorrow-spiders",
+    "tc": "哀愁蜘蛛",
+    "notes": "構成萬年之樹的群聚蜘蛛，數量無盡，用星際語言哭嚎"
+  },
+  {
+    "en": "Eater of Names",
+    "tc": "噬名者",
+    "notes": "鰲阜信徒的戰艦；船首像帶有枯寂褐（Gant）色澤"
+  },
+  {
+    "en": "Unfinished Men",
+    "tc": "未竟之人",
+    "notes": "缺少某種要素的黏土人變體（Clay Men）；海盜版本稱 Unfinished Pirates → 未竟海盜"
+  },
+  {
+    "en": "Gant Pole",
+    "tc": "枯寂柱",
+    "notes": "吸引垂死怪物的地標，與 Gant（枯寂褐）同源"
+  },
+  {
+    "en": "Chelonite",
+    "tc": "鰲阜信徒",
+    "notes": "信奉死亡與偉大甲殼的鰲阜宗教派系"
+  },
+  {
+    "en": "Flourishing-of-Years",
+    "tc": "年歲之盛",
+    "notes": "面容島的宏偉神壇臉孔（grand shrine-face of Visage），芙花水母死後臉部輪廓與其相似"
+  },
+  {
+    "en": "heptycheer",
+    "tc": "七喜獸",
+    "notes": "海澤深海怪獸，戰利品艦員的天敵"
+  },
+  {
+    "en": "Behemoustache",
+    "tc": "巨髭獸",
+    "notes": "behemoth（巨獸）+ moustache（鬍鬚），可採收其肉、骨骼與壯觀鬍鬚"
+  },
+  {
+    "en": "Crack Pirate",
+    "tc": "精銳海盜",
+    "notes": "特別精銳的海盜艦艇前綴，如 Crack Pirate Frigate / Steam-Pinnace"
+  },
+  {
+    "en": "Rat-Barge",
+    "tc": "鼠駁船",
+    "notes": "鼠海盜（Rat Pirates）使用的駁船"
+  },
+  {
+    "en": "High Wilderness",
+    "tc": "高荒",
+    "notes": "海澤天頂之上的虛空宇宙，審判者（Judgements）居住之地；相對於地底的「尼斯」"
+  },
+  {
+    "en": "Judgements' Egg",
+    "tc": "審判者之卵",
+    "notes": "審判者（天頂星辰神靈）的卵，黎明機器正在追尋，伊雷姆與鐵鑄共和國有售"
+  },
+  {
+    "en": "the Banded Prince",
+    "tc": "條紋王子",
+    "notes": "玉髓海岸（Carnelian Coast）的老虎王子，名義統治者，對自身歷史有強烈情感共鳴"
+  },
+  {
+    "en": "White-and-Golds",
+    "tc": "白金衛士",
+    "notes": "汗國的精銳衛兵/護衛隊"
+  },
+  {
+    "en": "the Leopard",
+    "tc": "豹",
+    "notes": "汗國內部派系，其成員「豹派」渴求財寶；cf. 汗國、可汗榮光"
+  },
+  {
+    "en": "Red Science",
+    "tc": "紅色科學",
+    "notes": "能打破存在之大鏈的禁忌學問，曾造成連時間都留下傷疤的創傷；與第七城的覆滅相關"
+  },
+  {
+    "en": "the Presbyterate",
+    "tc": "長老公國",
+    "notes": "上古大陸上的地表帝國，有精彩的間諜活動；與 Elder Continent（上古大陸）是地名/國名的關係"
+  },
+  {
+    "en": "Empire of Hands",
+    "tc": "手部帝國",
+    "notes": "五旬節猿（Pentecost apes）建立的帝國，模仿人類文明；區域名以手部帝國為準"
+  },
+  {
+    "en": "Pentecost apes",
+    "tc": "五旬節猿",
+    "notes": "手部帝國的類人猿，技術上是猴非猿，但稱其為猿才算禮貌；私下稱「那群死猴子」"
+  },
+  {
+    "en": "Wildweald Court",
+    "tc": "野疇宮廷",
+    "notes": "皇島（Sovereign Island）上五旬節猿皇帝的宮殿，wild（野）+ weald（古英語：森林）"
+  },
+  {
+    "en": "Sovereign Island",
+    "tc": "皇島",
+    "notes": "手部帝國皇帝居所，整座島都是野疇宮廷"
+  },
+  {
+    "en": "Ash Isthmus",
+    "tc": "灰燼地峽",
+    "notes": "手部帝國的火山遺跡，有溫泉，猴孤兒的居所"
+  },
+  {
+    "en": "Fountainhead Island",
+    "tc": "源泉島",
+    "notes": "手部帝國的古代神廟所在，有初代皇帝地宮（Vault of the First Emperor）"
+  },
+  {
+    "en": "Hearthsake Island",
+    "tc": "心焰島",
+    "notes": "手部帝國中唯一的人類定居點，海盜殖民者占據，猿猴免進"
+  },
+  {
+    "en": "Port Stanton",
+    "tc": "斯坦頓港",
+    "notes": "手部帝國的主要港口"
+  },
+  {
+    "en": "Arrant Limpet",
+    "tc": "放肆笠螺",
+    "notes": "哀嶺（Gaider's Mourn）的海盜酒館，外地人不受歡迎"
+  },
+  {
+    "en": "Sphinxstone",
+    "tc": "斯芬克斯石",
+    "notes": "鰲阜出產的特殊礦石，黎明機器的序列者（Sequencer）與骨人（Bone Men）各自需要"
+  },
+  {
+    "en": "Element of Dawn",
+    "tc": "黎明元素",
+    "notes": "黎明機器產出的稀有物質"
+  },
+  {
+    "en": "Red Ruin",
+    "tc": "赤霓",
+    "notes": "哀嶺一帶流行的烈酒"
+  },
+  {
+    "en": "Blumenbach Quarantine",
+    "tc": "布魯門巴哈隔離令",
+    "notes": "海軍部將手部帝國猿猴封鎖於其島嶼群的政策"
+  },
+  {
+    "en": "Bone Men",
+    "tc": "骨人",
+    "notes": "鰲阜的聖骨祭司，守護遺骨聖物；以白黏土塗面，說話全用大寫"
+  },
+  {
+    "en": "Sequencer",
+    "tc": "序列者",
+    "notes": "大晶洞（Grand Geode）中侍奉黎明機器的信徒/操作者"
+  },
+  {
+    "en": "Smiling Priest",
+    "tc": "微笑神父",
+    "notes": "光之禮拜堂的神父，永遠在微笑，侍奉溺死神（Drowned Man）"
+  },
+  {
+    "en": "Drowned Man",
+    "tc": "溺死神",
+    "notes": "光之禮拜堂崇拜的神靈，信徒以血肉獻祭"
+  },
+  {
+    "en": "Storm",
+    "tc": "風暴神",
+    "notes": "海澤三神之一（Storm/Stone/Salt），鰲阜信徒以血腥祭儀崇拜"
+  },
+  {
+    "en": "Memento Mori",
+    "tc": "記住你終將死去",
+    "notes": "拉丁文「memento mori」，大晶洞出售的物品"
+  },
+  {
+    "en": "Carnelian Exile",
+    "tc": "玉髓流亡者",
+    "notes": "大晶洞可招募的一等航海長，提升鏡思與書頁；名字源自玉髓港（Port Carnelian）"
+  },
+  {
+    "en": "Delightful Adventuress",
+    "tc": "迷人冒險家",
+    "notes": "源泉島的 NPC，帶領猴子大軍挖掘初代皇帝地宮"
+  },
+  {
+    "en": "Monkey Foundling",
+    "tc": "猴孤兒",
+    "notes": "灰燼地峽的金髮小女孩，由五旬節猿撫養長大，身手如猴"
+  },
+  {
+    "en": "Exquisite Seneschal",
+    "tc": "精緻執事",
+    "notes": "野疇宮廷的大管家，協助皇帝統籌大遷徙"
+  },
+  {
+    "en": "Calculating Mayor",
+    "tc": "算計市長",
+    "notes": "斯坦頓港的市長階段之一（四魂猿猴）"
+  },
+  {
+    "en": "Flea-Ridden Mayor",
+    "tc": "蚤身市長",
+    "notes": "斯坦頓港的市長階段之一（三魂監管人）"
+  },
+  {
+    "en": "Esteemed Mayor",
+    "tc": "尊貴市長",
+    "notes": "斯坦頓港的市長階段之一（五魂，野疇宮廷最新成員）"
+  },
+  {
+    "en": "Civilised Mayor",
+    "tc": "文明市長",
+    "notes": "斯坦頓港的市長階段之一（吸收迷人冒險家靈魂的四魂猿猴）"
+  },
+  {
+    "en": "Boisterous Pirate",
+    "tc": "豪放海盜",
+    "notes": "心焰島的食人海盜首領，以大聲說話著稱"
+  },
+  {
+    "en": "Lost Treasure Hunter",
+    "tc": "失落的尋寶者",
+    "notes": "斯坦頓港/心焰島的 NPC，迷失方向的尋寶者"
+  },
+  {
+    "en": "Soaring Glory",
+    "tc": "翱翔榮光號",
+    "notes": "五旬節猿建造的飛艇，全名「克里斯平四世陛下翱翔榮光號」"
+  },
+  {
+    "en": "Great Exodus",
+    "tc": "大遷徙",
+    "notes": "五旬節猿計劃乘飛艇逃離隔離區的行動"
+  },
+  {
+    "en": "Silent Gallery",
+    "tc": "靜寂廊",
+    "notes": "野疇宮廷內的重要廳堂，皇帝於此接見朝臣"
+  },
+  {
+    "en": "Chandler of Souls",
+    "tc": "靈魂燭商",
+    "notes": "野疇宮廷中主持靈魂交易的官員"
+  },
+  {
+    "en": "lacre",
+    "tc": "凝霜",
+    "notes": "海澤特有的凝固悲愁物質，尼斯的特殊雪（neath-snow）"
+  },
+  {
+    "en": "Effusive Official",
+    "tc": "熱情官員",
+    "notes": "可汗榮光豹派的禮賓官員，負責接待外交事務"
+  },
+  {
+    "en": "Nephrite Quarter",
+    "tc": "翡翠區",
+    "notes": "可汗之心的貿易特區，持有豹派執照方能進入"
+  },
+  {
+    "en": "Blue Priest",
+    "tc": "藍色神父",
+    "notes": "汗國深藍天（Deep Blue Heaven）宗教的神職人員"
+  },
+  {
+    "en": "Riddlefisher",
+    "tc": "謎語漁人",
+    "notes": "伊雷姆的智者，身著落日色長袍，以謎語問候訪客"
+  },
+  {
+    "en": "Seven-Serpent",
+    "tc": "七蛇",
+    "notes": "伊雷姆高台上的七頭蛇雕像，渴望地注視訪客"
+  },
+  {
+    "en": "Boxmakers",
+    "tc": "製盒人",
+    "notes": "伊雷姆的神秘工匠，製作特殊寶盒，說話全用將來式"
+  },
+  {
+    "en": "Masked Functionary",
+    "tc": "蒙面職員",
+    "notes": "太門族的官員，從不露臉，亦不直視對方眼睛"
+  },
+  {
+    "en": "Copper Quarter",
+    "tc": "銅器區",
+    "notes": "可汗之心允許外國人活動的商業區，物價刁鑽"
+  },
+  {
+    "en": "Barnabas",
+    "tc": "巴拿巴",
+    "notes": "迷人冒險家的未完成黏土人保鑣，沒有臉"
+  },
+  {
+    "en": "Merciless Modiste",
+    "tc": "殘酷時裝師",
+    "notes": "帕默斯頓山可招募的一等艦長，提升鐵意、幻想與心智；絕不輕裝上陣，也不容忍蠢貨"
+  },
+  {
+    "en": "Wistful Deviless",
+    "tc": "惆悵女惡魔",
+    "notes": "火山口小屋居住的流亡女惡魔，愛喝蜜菌茶，硫磺慣例公司的消息來源"
+  },
+  {
+    "en": "Nacreous Outcast",
+    "tc": "珍珠放逐者",
+    "notes": "橡皮人 NPC，被帶往鹽獅時會進行鹽神儀式，最終取回斯芬克斯石棋子"
+  },
+  {
+    "en": "Chequered Character",
+    "tc": "格紋人物",
+    "notes": "送往塞西爾港的 NPC，對西洋棋近乎痴迷"
+  },
+  {
+    "en": "Fulgent Impeller",
+    "tc": "輝耀推進器",
+    "notes": "以黑象牙拼砌建造的神秘引擎，核心為令人不安的賢者的殉道之身；噬王之堡建造"
+  },
+  {
+    "en": "Unmakers",
+    "tc": "解構者",
+    "notes": "鹽獅的採石工人，受集市資助，將鹽獅巨石一塊塊拆解運往倫敦地下"
+  },
+  {
+    "en": "Emissary of Spiders",
+    "tc": "蜘蛛使者",
+    "notes": "哀愁蜘蛛（石網）的人形代言人，戴著眼罩，措辭溫暖但不完全誠實"
+  },
+  {
+    "en": "Nocturne",
+    "tc": "夜曲號",
+    "notes": "十八年前在救世主礁岩附近失蹤的傳奇船隻，哀愁蜘蛛委託玩家調查"
+  },
+  {
+    "en": "Blunt Thomas",
+    "tc": "直率托馬斯",
+    "notes": "農西歐死信辦公室的工頭郵差，粗鄙但頗具代表性的人物"
+  },
+  {
+    "en": "Port Cecil",
+    "tc": "塞西爾港",
+    "notes": "珊瑚迷宮（法則之地）環繞的港口，居民沉迷閃茲石棋，老居民身有珊瑚沉積"
+  },
+  {
+    "en": "the Principles",
+    "tc": "法則之地",
+    "notes": "塞西爾港周圍的珊瑚礁區，以閃茲石棋出名；Shining Mind（閃耀心靈）曾居於此"
+  },
+  {
+    "en": "Unsettling Sage",
+    "tc": "令人不安的賢者",
+    "notes": "自願成為輝耀推進器核心的 NPC，以身殉道，臨終之語：「心是命運的引擎」"
+  },
+  {
+    "en": "Sigil-Ridden Navigator",
+    "tc": "符紋領航員",
+    "notes": "艦上特殊領航員，可在噬王之堡以儀式去除人性，之後非人非鬼卻保有技能與臉孔"
+  },
+  {
+    "en": "Tomb-Colonists",
+    "tc": "墓地殖民者",
+    "notes": "墓地殖民地的居民（人），有別於 Tomb-Colonies（地方）"
+  },
+  {
+    "en": "Clay Men",
+    "tc": "泥人",
+    "notes": "萬嚎之境的人造居民，百心之王所創"
+  },
+  {
+    "en": "Clothes-colony",
+    "tc": "衣物群落",
+    "notes": "萬嚎之境中活著的衣物聚合體，直立行走"
+  },
+  {
+    "en": "King with a Hundred Hearts",
+    "tc": "百心之王",
+    "notes": "萬嚎之境的神秘統治者，居於山頂宮殿"
+  },
+  {
+    "en": "Quaker's Haven",
+    "tc": "貴格灣",
+    "notes": "又稱羊肉島（Mutton Island），昔日倫敦郊區漁村"
+  },
+  {
+    "en": "Hunter's Keep",
+    "tc": "獵人莊園",
+    "notes": "辛西婭、菲比、露西三姐妹居住的孤島大宅"
+  },
+  {
+    "en": "Festival of Silk",
+    "tc": "絲綢節",
+    "notes": "降生城每年一次的禁忌音樂與彩色慶典"
+  },
+  {
+    "en": "the Cheery Man",
+    "tc": "快活人",
+    "notes": "委託玩家在萬嚎之境取貨的倫敦地下幫派人物"
+  },
+  {
+    "en": "Isle of Cats",
+    "tc": "貓島",
+    "notes": "以貓為主題的海盜聚居島，卡文迪許港所在地"
+  },
+  {
+    "en": "the Pirate-King",
+    "tc": "海盜王",
+    "notes": "統治貓島的神秘王者，名為利奧波德"
+  },
+  {
+    "en": "Leopold",
+    "tc": "利奧波德",
+    "notes": "貓島的海盜王"
+  },
+  {
+    "en": "Isery",
+    "tc": "艾瑟里",
+    "notes": "王之鉗爪，蜜語坊的經營者，貓島贊助人 NPC"
+  },
+  {
+    "en": "King's Claw",
+    "tc": "王之鉗爪",
+    "notes": "艾瑟里的頭銜，執行海盜王命令"
+  },
+  {
+    "en": "Zaira",
+    "tc": "賽拉",
+    "notes": "籠中貴婦/花園貴婦，管理玫瑰花園"
+  },
+  {
+    "en": "Lady of the Cages",
+    "tc": "籠中貴婦",
+    "notes": "賽拉的頭銜，亦稱花園貴婦"
+  },
+  {
+    "en": "Port Cavendish",
+    "tc": "卡文迪許港",
+    "notes": "貓島的主要港口"
+  },
+  {
+    "en": "Cavendish Abbey",
+    "tc": "卡文迪許修道院",
+    "notes": "貓島上的修道院，釀蜜修女基地"
+  },
+  {
+    "en": "Melliferous Sisters",
+    "tc": "釀蜜修女",
+    "notes": "養殖燈光蜂並採收紅蜜的修女團"
+  },
+  {
+    "en": "lamplighter bees",
+    "tc": "燈光蜂",
+    "notes": "被用來採收記憶製成蜂蜜的特殊蜜蜂"
+  },
+  {
+    "en": "red honey",
+    "tc": "紅蜜",
+    "notes": "燈光蜂從人類記憶中採收的違禁蜂蜜，有致幻效果"
+  },
+  {
+    "en": "Garden of Cages",
+    "tc": "籠中花園",
+    "notes": "賽拉的玫瑰花園，用於採收記憶"
+  },
+  {
+    "en": "Alarming Scholar",
+    "tc": "驚悚學者",
+    "notes": "倫敦的神秘學者，艾瑟里的紅蜜委託對象"
+  },
+  {
+    "en": "Honeyed Tongue",
+    "tc": "蜜語坊",
+    "notes": "貓島的妓院兼蜂蜜館，艾瑟里經營"
+  },
+  {
+    "en": "Rubbery Man",
+    "tc": "橡皮人",
+    "notes": "墮落倫敦的異形存在，橡皮質感"
+  },
+  {
+    "en": "Taamas",
+    "tc": "塔瑪斯",
+    "notes": "縛遮娑衛兵對玩家船長的稱呼，梵語名"
+  },
+  {
+    "en": "Mihir",
+    "tc": "米希爾",
+    "notes": "縛遮娑的光之神，梵語 mihira = 太陽"
+  },
+  {
+    "en": "Jewel-Turbaned Youth",
+    "tc": "珠冠青年",
+    "notes": "縛遮娑流亡者，帶領其他海澤人在城外紮營"
+  },
+  {
+    "en": "Neathers",
+    "tc": "海澤人",
+    "notes": "地底世界（Neath）的居民通稱"
+  },
+  {
+    "en": "Acolyte",
+    "tc": "助侍",
+    "notes": "修道院礁岩的女助侍，行醫、唱歌，不同於惆悵女惡魔"
+  },
+  {
+    "en": "Long-Box",
+    "tc": "長箱",
+    "notes": "修道院礁岩與第三站的特殊貨物，內含心臟秘密"
+  },
+  {
+    "en": "Heartmetal",
+    "tc": "心金",
+    "notes": "心金鐵匠使用的神秘金屬，心金錠 = Heartmetal Ingot"
+  },
+  {
+    "en": "Station III",
+    "tc": "第三站",
+    "notes": "機械巨島上的神秘設施，接受長箱快遞"
+  },
+  {
+    "en": "Greyfields",
+    "tc": "灰原",
+    "notes": "海澤中的蒸餾酒品牌，灰原蒸餾酒 = Greyfields spirits"
+  },
+  {
+    "en": "Soothe and Cooper's",
+    "tc": "蘇潤藥液",
+    "notes": "海澤常見的醫療補品（補帖/藥酒）"
+  },
+  {
+    "en": "Scarred Sister",
+    "tc": "疤面修女",
+    "notes": "修女類別的船員，例如菲比（Phoebe）"
+  },
+  {
+    "en": "Austere Acolyte",
+    "tc": "嚴謹助侍",
+    "notes": "修道院礁岩主助侍的稱號，負責解剖取心金球"
+  },
+  {
+    "en": "Heartsease Tonic",
+    "tc": "暖心寧神藥",
+    "notes": "蘇潤與庫珀製造的藥劑，飲用後體內會形成心金球包裹記憶"
+  },
+  {
+    "en": "Soothe and Cooper",
+    "tc": "蘇潤與庫珀",
+    "notes": "製造暖心寧神藥的兩人，住在修道院礁岩附近"
+  },
+  {
+    "en": "Muscular Prioress",
+    "tc": "健壯院長",
+    "notes": "修道院礁岩修女姊妹會的院長副手，身上叮叮作響的刀槍"
+  },
+  {
+    "en": "the Sisterhood",
+    "tc": "修女姊妹會",
+    "notes": "修道院礁岩的武裝修女組織"
+  },
+  {
+    "en": "Visager",
+    "tc": "面容人",
+    "notes": "來自面容島的居民，戴青蛙面具"
+  },
+  {
+    "en": "Shepherd Isles",
+    "tc": "牧羊人諸島",
+    "notes": "沒有真正牧羊人的諸島，得名自發現者"
+  },
+  {
+    "en": "the Abbess",
+    "tc": "女修道院長",
+    "notes": "修道院礁岩修女姊妹會最高領袖"
+  },
+  {
+    "en": "Mute Exiles",
+    "tc": "沉默的流亡者",
+    "notes": "典冊島上被放逐的無聲流亡者"
+  },
+  {
+    "en": "Pillared Sea",
+    "tc": "柱海",
+    "notes": "伊雷姆所在的海域，有三根石柱"
+  },
+  {
+    "en": "Murinia",
+    "tc": "穆里尼亞",
+    "notes": "豬鼠島鼠族共和國，以首席工程師埃德加為代表"
+  },
+  {
+    "en": "Cavia",
+    "tc": "卡維亞",
+    "notes": "豬鼠島豚鼠王國，效忠格雷斯諾大王"
+  },
+  {
+    "en": "King Gracegnaw",
+    "tc": "格雷斯諾大王",
+    "notes": "豬鼠島豚鼠王國的國王"
+  },
+  {
+    "en": "Chief Engineer",
+    "tc": "首席工程師",
+    "notes": "穆里尼亞鼠族領袖，代號埃德加"
+  },
+  {
+    "en": "the Seneschal",
+    "tc": "宮務大臣",
+    "notes": "卡維亞豚鼠王國的宮廷執事，奧古斯塔女爵"
+  },
+  {
+    "en": "Chickenwoods",
+    "tc": "雞木林",
+    "notes": "豬鼠島上的神秘森林，有雞群出沒"
+  },
+  {
+    "en": "Rat Star",
+    "tc": "鼠星",
+    "notes": "鼠族的藍色閃茲石聖物，存放在阿拉拉特山頂"
+  },
+  {
+    "en": "Lady's Eye",
+    "tc": "女士之眼",
+    "notes": "豚鼠的藍色閃茲石聖物，存放在卡維亞"
+  },
+  {
+    "en": "Saints-Haven",
+    "tc": "聖徒港",
+    "notes": "豬鼠島的港口名稱"
+  },
+  {
+    "en": "Hairless Adviser",
+    "tc": "無毛顧問",
+    "notes": "豬鼠島對玩家船長的稱呼"
+  },
+  {
+    "en": "Wolfstack Docks",
+    "tc": "狼棧碼頭",
+    "notes": "淪敦的主要碼頭區"
+  },
+  {
+    "en": "The Impossible Lamb",
+    "tc": "不可能的羔羊",
+    "notes": "擱淺在豬鼠島海灘的蒸汽船，成為材料來源"
+  },
+  {
+    "en": "jackal mask",
+    "tc": "豺狼面具",
+    "notes": "面容島以外的邪惡勢力象徵，豬鼠島幼崽秘密崇拜"
+  },
+  {
+    "en": "Key of Dreams",
+    "tc": "夢之鑰",
+    "notes": "特殊道具，持有者可使用開發者除錯功能"
+  },
+  {
+    "en": "Mangrove College",
+    "tc": "紅樹林學院",
+    "notes": "學者哲學家聚居地，以擬合成植被著稱，格紋人物等乘客的出發地"
+  },
+  {
+    "en": "Maybe's Daughter",
+    "tc": "「也許」之女",
+    "notes": "招募於紅樹林學院的工程師軍官，生於映象界，提升幻想、鐵意與引擎動力"
+  },
+  {
+    "en": "Shattered Citadel",
+    "tc": "破碎堡壘",
+    "notes": "神落的前身，從天頂墜落的飛行堡壘，內有飢人鬼魂，需狐火蠟燭探索"
+  },
+  {
+    "en": "Starved Men",
+    "tc": "飢人",
+    "notes": "曾棲居天頂堡壘（即破碎堡壘）的古老族群，現已全滅，但仍有某種存在"
+  },
+  {
+    "en": "Avernus",
+    "tc": "阿維努斯",
+    "notes": "古邁運河通往地表的出口湖泊，位於義大利坎帕尼亞"
+  },
+  {
+    "en": "Saviour's Rocks",
+    "tc": "救世主礁岩",
+    "notes": "哀愁蜘蛛的議會根據地，萬年之樹的停泊之處，夜曲號任務終點"
+  },
+  {
+    "en": "Tree of Seasons",
+    "tc": "季節之樹",
+    "notes": "萬年之樹的別稱或相關實體，夜曲號篇章結局提及"
+  },
+  {
+    "en": "Naples",
+    "tc": "那不勒斯",
+    "notes": "古邁運河地表終點，義大利港口城市，可購補給與火車票"
+  },
+  {
+    "en": "Foxfire Candles",
+    "tc": "狐火蠟燭",
+    "notes": "破碎堡壘探索的必需品，用完會觸發壞事件"
+  },
+  {
+    "en": "Correspondence",
+    "tc": "天璣文字",
+    "notes": "星辰書寫的宇宙語言，孤寂錨爪戰鬥中空氣吟唱；觀看過多會損傷心智"
+  },
+  {
+    "en": "Wisdom",
+    "tc": "智慧",
+    "notes": "努普米特的汗國監獄，名為「智慧」；地名"
+  },
+  {
+    "en": "Nuppmiddt",
+    "tc": "努普米特",
+    "notes": "建造智慧監獄的汗國地名/人名"
+  },
+  {
+    "en": "the Unctuous Fellow",
+    "tc": "油滑先生",
+    "notes": "智慧監獄的獄卒 NPC，油腔滑調"
+  },
+  {
+    "en": "knot-oracles",
+    "tc": "結繩神諭師",
+    "notes": "智慧監獄中神秘的餐食訂製者"
+  },
+  {
+    "en": "Parabox",
+    "tc": "寓言匣",
+    "notes": "能遮蔽陽光的神秘裝置，用於在夏宴建立殖民地"
+  },
+  {
+    "en": "Café Ferstel",
+    "tc": "費爾斯特爾咖啡館",
+    "notes": "維也納知識圈中心咖啡館"
+  },
+  {
+    "en": "the Melancholic Proprietor",
+    "tc": "憂鬱老闆",
+    "notes": "費爾斯特爾咖啡館老闆 NPC"
+  },
+  {
+    "en": "the Plucky Researcher",
+    "tc": "勇敢的研究者",
+    "notes": "霜鑄之境的研究者 NPC，帶領攀登冰壁"
+  },
+  {
+    "en": "the Disillusioned Doctor",
+    "tc": "幻滅的醫生",
+    "notes": "陰鬱的醫生（the Haunted Doctor）的幻滅狀態"
+  },
+  {
+    "en": "the Indomitable Campaigner",
+    "tc": "不屈的從軍者",
+    "notes": "幹練的從軍者（the Brisk Campaigner）痊癒後的狀態"
+  },
+  {
+    "en": "the Satisfied Magician",
+    "tc": "滿足的魔術師",
+    "notes": "溫文的魔術師（the Genial Magician）復仇完成後的狀態"
+  }
+]

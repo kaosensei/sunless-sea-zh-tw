@@ -1,0 +1,206 @@
+[
+  {
+    "Name": "你的航海日誌！",
+    "Id": 1,
+    "Description": "目標與故事進度在右側。將滑鼠移至圖示上，或點擊分類標題以查看詳情。",
+    "ShouldPause": false
+  },
+  {
+    "Name": "你的船員！",
+    "Id": 2,
+    "Description": "左鍵拖曳以指派船員，或右鍵與其對話。已指派的船員可提供能力加成。",
+    "ShouldPause": false
+  },
+  {
+    "Name": "商店",
+    "Id": 3,
+    "Description": "在此可購買燃料、補給、船舶裝備與貿易商品。商店列於左側，點擊即可查看其貨物。",
+    "ShouldPause": false
+  },
+  {
+    "Name": "回聲",
+    "Id": 4,
+    "Description": "倫敦的通用貨幣是回聲。探索地圖並帶回港口報告與珍寶即可賺取金錢。你也可以做貿易，但探索與故事遠比貿易豐厚。",
+    "ShouldPause": false
+  },
+  {
+    "Name": "揚帆起航",
+    "Id": 5,
+    "Description": "點擊出港按鈕離開港口。",
+    "ShouldPause": false
+  },
+  {
+    "Name": "操舵",
+    "Id": 6,
+    "Description": "使用 WSAD 鍵移動。連按 W 兩次可達最高速度。按 S 減速或倒退。A 與 D 鍵用於轉向。",
+    "ShouldPause": false
+  },
+  {
+    "Name": "恐懼",
+    "Id": 7,
+    "Description": "當船上亮起綠色行駛燈，代表你身處黑暗之中，船員的恐懼將逐漸上升。注意恐懼指示器上的格數——遠離陸地時恐懼增長更快。切勿讓它達到 100。",
+    "ShouldPause": false
+  },
+  {
+    "Name": "船首燈",
+    "Id": 8,
+    "Description": "船首燈可開可關。保持開啟可降低恐懼的增長速率，但也會讓你更容易被敵人發現。",
+    "ShouldPause": false
+  },
+  {
+    "Name": "碎片",
+    "Id": 9,
+    "Description": "發現新地點時你會獲得碎片。積累足夠的碎片即可獲得一個秘密。\n\n你可以用秘密提升船長的技能（與船員對話），或在某些關鍵故事中使用。",
+    "ShouldPause": false
+  },
+  {
+    "Name": "靠港",
+    "Id": 10,
+    "Description": "若要造訪此港口，點擊靠港按鈕。",
+    "ShouldPause": false
+  },
+  {
+    "Name": "秘密",
+    "Id": 11,
+    "Description": "你可以花費秘密來提升能力。右鍵點擊一名船員，開始對話即可。",
+    "ShouldPause": false
+  },
+  {
+    "Name": "有事等待著你",
+    "Id": 12,
+    "Description": "在海澤航行一段時間後，日誌本上方會出現一個燈籠圖示，代表下一個港口有機遇等待著你。",
+    "ShouldPause": false
+  },
+  {
+    "Name": "港口",
+    "Id": 13,
+    "Description": "那圈光就是港口！前往那裡獲取故事。",
+    "ShouldPause": false
+  },
+  {
+    "Name": "海澤蝙蝠",
+    "Id": 14,
+    "Description": "遠離陸地時，點擊海澤蝙蝠圖示，它將搜尋附近尚未發現的地點。",
+    "ShouldPause": false
+  },
+  {
+    "Name": "海澤蝙蝠",
+    "Id": 15,
+    "Description": "你的海澤蝙蝠發現了什麼！點擊訊息，將位置標記在海圖上。",
+    "ShouldPause": false
+  },
+  {
+    "Name": "海圖",
+    "Id": 16,
+    "Description": "點擊海圖圖示，查看迄今為止的所有發現。",
+    "ShouldPause": false
+  },
+  {
+    "Name": "鍵盤快捷鍵",
+    "Id": 17,
+    "Description": "大多數圖示都有鍵盤快捷鍵——將滑鼠移至上方即可查看。",
+    "ShouldPause": false
+  },
+  {
+    "Name": "戰鬥",
+    "Id": 18,
+    "Description": "你遭遇了對手！紅色弧線顯示甲板炮的射程。保持敵人在射程之內，讓船員計算射擊方案。\n\n若保持敵人在船首燈的照射下，計算速度會更快。隨著船員推進射擊方案，甲板炮將逐漸亮起。（按空格鍵或關閉教學以繼續。）",
+    "ShouldPause": true
+  },
+  {
+    "Name": "引擎全速！",
+    "Id": 19,
+    "Description": "若需要額外的速度，點擊全速圖示將再加一桶燃料進引擎。此舉偶有危險。",
+    "ShouldPause": true
+  },
+  {
+    "Name": "射擊方案就緒",
+    "Id": 20,
+    "Description": "射擊方案已就緒！點擊甲板武器以攻擊對手。",
+    "ShouldPause": false
+  },
+  {
+    "Name": "奪取戰利品",
+    "Id": 21,
+    "Description": "恭喜！你已擊敗對手。移至其殘骸處進行打撈。",
+    "ShouldPause": false
+  },
+  {
+    "Name": "船體受損",
+    "Id": 22,
+    "Description": "船體受損！你可以在倫敦的乾塢修復，或在海澤上點擊修復按鈕。海上修復緩慢，且消耗補給。",
+    "ShouldPause": false
+  },
+  {
+    "Name": "補給不足",
+    "Id": 23,
+    "Description": "你的補給快耗盡了。一旦耗盡，船員將開始挨餓。你可以在某些港口購買更多補給。",
+    "ShouldPause": false
+  },
+  {
+    "Name": "燃料不足",
+    "Id": 24,
+    "Description": "你的燃料快耗盡了。在耗盡之前補充，否則你將被困在黑暗之中。",
+    "ShouldPause": false
+  },
+  {
+    "Name": "船員傷亡",
+    "Id": 25,
+    "Description": "你損失了一名船員。損失太多將降低速度；全數損失，你也將死去。你隨時可以在倫敦，有時在其他港口補充船員。",
+    "ShouldPause": false
+  },
+  {
+    "Name": "恐懼告急",
+    "Id": 26,
+    "Description": "船員的恐懼已達危險水位。你可以在某些港口降低恐懼，靠近陸地並保持船首燈開啟也可減緩其上升。",
+    "ShouldPause": false
+  },
+  {
+    "Name": "受損",
+    "Id": 27,
+    "Description": "小心！你的船體剛因碰撞受損。若難以避開礁石，試著減速或按 S 鍵倒退。",
+    "ShouldPause": false
+  },
+  {
+    "Name": "貨艙",
+    "Id": 28,
+    "Description": "你的貨艙快滿了。若在港外超出最大載貨量，你將不得不將部分貨物拋入海中。",
+    "ShouldPause": false
+  },
+  {
+    "Name": "船體嚴重受損",
+    "Id": 29,
+    "Description": "船體已低於半數強度！敵方攻擊現在可能對你的恐懼、船員或補給造成額外傷害。",
+    "ShouldPause": false
+  },
+  {
+    "Name": "號角",
+    "Id": 30,
+    "Description": "按 H 鍵吹響號角。此舉毫無實際用途，且可能激怒附近的海澤巨獸或敵對船隻。",
+    "ShouldPause": false
+  },
+  {
+    "Name": "財富！",
+    "Id": 31,
+    "Description": "你已賺取足夠的回聲為船隻購置更好的裝備！點擊商店標籤。新引擎或甲板武器是不錯的第一選擇。",
+    "ShouldPause": false
+  },
+  {
+    "Name": "備齊糧草",
+    "Id": 32,
+    "Description": "你現在已備足糧草！試著航行得更遠些。風險更大，但回報也更豐。",
+    "ShouldPause": false
+  },
+  {
+    "Name": "潛航",
+    "Id": 33,
+    "Description": "你現在是一艘潛艇的驕傲船長！使用「Submerge」按鍵，將你的船轉換為水下潛艇。在水下時，使用同一按鍵浮出水面。",
+    "ShouldPause": false
+  },
+  {
+    "Name": "聲納",
+    "Id": 34,
+    "Description": "聲納讓你得以窺見海澤水面以下。在水中時，它以暗藍色微光標示附近的障礙物、發現物與生物。你需要靠得更近，才能辨明它們的真面目。",
+    "ShouldPause": false
+  }
+]

@@ -1,0 +1,20 @@
+# 遊戲來源素材（不 commit，含版權內容）
+source/
+
+# merge 中間產物（與 addon/ 重複）
+translations/
+
+# 雜物
+areas_test_out/
+before_reinstall_snapshot.json
+.DS_Store
+translations/.DS_Store
+translations/vanilla/.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# diff 報告（自動生成）
+docs/diff/
