@@ -12,6 +12,8 @@ SUNLESS SEA 非官方繁體中文翻譯 mod。
 
 在生成式 AI 甚囂塵上的日子以前，我曾經簡單翻譯過幾篇英文文章，對於翻譯需要注意的事情有一些非常初步的概念，身為克系的愛好者，也還算分得出怎樣是「好的克蘇魯翻譯」，初步請 Claude 研究過[克系文學的特色](https://github.com/kaosensei/sunless-sea-zh-tw/blob/main/docs/%E5%85%8B%E8%98%87%E9%AD%AF%E7%BF%BB%E8%AD%AF%E7%A0%94%E7%A9%B6%E6%91%98%E8%A6%81.md)後，我就結合原本簡中譯者在 event.json 中留下的關鍵名詞及翻譯策略（例如「Fallen London」譯為「淪敦」這個巧思我就非常欣賞），制定了本次翻譯的[風格指南](https://github.com/kaosensei/sunless-sea-zh-tw/blob/main/docs/style-guide.md)，儘可能確保 AI 在大量翻譯時保持名詞和風格的一致性。
 
+從結果而言，我得說翻譯的結果非常不錯！依據風格指南產出的結果完全符合我想要的風格。
+
 翻譯完成後，我儘可能跑了多次檢核確保翻譯品質。不過因為這是我第一次使用 AI 處理這麼大量的文本，絕對會有不夠完善之處，若有注意到需要修正的地方，歡迎直接發 issue 提醒我，我會儘快修正。
 
 **遊戲購買連結**：https://store.steampowered.com/app/304650/SUNLESS_SEA/
