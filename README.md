@@ -66,6 +66,60 @@ addon/
 
 ---
 
+## 翻譯比較
+
+以下四個案例說明為何需要從英文原文重新翻譯。
+
+---
+
+**案例一：語氣（Id 189552）**
+
+> EN: Rain at funerals is decorous. The Neath chooses to grace this afternoon with one of its thin and melancholy showers.
+
+> 繁中：葬禮上的雨是得體的。地底以其稀薄、憂鬱的細雨來恩賜這個下午。
+
+> 簡中：细雨使得葬礼显得格外肃穆。
+
+原文首句是一個近乎白描的陳述，語氣疏離冷靜。簡中加入「格外」，並改成因果句，把旁觀式敘事轉成了情緒鋪墊。Sunless Sea 最核心的文體特色——用平靜的口吻說可怕或哀傷的事——在這一句話裡消失了。
+
+---
+
+**案例二：誤譯（Id 144262）**
+
+> EN: The silence will press on the ship with the weight of a cathedral, but we will forge on, East.
+
+> 繁中：寂靜將以大教堂的重量壓在船上，但我們將繼續向東。
+
+> 簡中：这寂静可以……推进这船，并且和东方结合起来。
+
+「press on」（向下重壓）被譯成「推进」（向前推進），方向完全相反。原文是沉默如大教堂的重量令人喘不過氣，簡中版變成了「寂靜推動船前進」。「forge on, East」（奮力向東）也成了「和東方結合」，意義不明。
+
+---
+
+**案例三：語氣（Id 143367）**
+
+> EN: An enormous crowned statue casts a chilling shadow.
+
+> 繁中：一座巨大的加冕雕像投下令人不寒而慄的陰影。
+
+> 簡中：一个巨大的……雕像投下了一片骇人的阴影。
+
+「chilling」是冷靜的形容詞，語感近乎客觀描述。「骇人」帶有更激烈的驚嚇感，把沉著的旁觀者視角推向了戲劇化，原文那種維多利亞式的隱忍被打破。
+
+---
+
+**案例四：誤譯（Id 172690）**
+
+> EN: Their new home is an echoing palace of rare dust.
+
+> 繁中：他們的新家是一座幽塵縈繞的空蕩殿堂。
+
+> 簡中：他们的新家没什么灰尘，满是回响。
+
+「rare dust」中的 rare 被誤讀為「稀少」，整句意思反轉。充滿積塵氣息的神秘宮殿，在簡中版裡變成了一個沒什麼灰塵的空洞地方。
+
+---
+
 ## 致謝
 
 [InstantComet/SunlessSea](https://github.com/InstantComet/SunlessSea) 簡體中文譯本的譯者在 `events.json` 中留下的翻譯，是本專案制定風格指南時的重要參考——從中歸納出克蘇魯文體的中文處理方式，以及術語譯名的選擇方向。在此致謝。
