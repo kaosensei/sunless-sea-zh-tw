@@ -113,7 +113,7 @@ Claude：「chilling」是冷靜的形容詞，語感近乎客觀描述。「骇
 
 ## 致謝
 
-[InstantComet/SunlessSea](https://github.com/InstantComet/SunlessSea) 簡中譯本的譯者在 `events.json` 中留下的翻譯，是本專案制定風格指南時的重要參考——從中歸納出克蘇魯文體的中文處理方式，以及術語譯名的選擇方向。在此致謝。
+[InstantComet/SunlessSea](https://github.com/InstantComet/SunlessSea) 簡中譯本的譯者在 `events.json` 中留下的翻譯，是我制定風格指南時的重要參考，在此致謝。
 
 ---
 
