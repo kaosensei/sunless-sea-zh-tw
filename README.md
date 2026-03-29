@@ -66,8 +66,14 @@ addon/
 
 ---
 
+## 致謝
+
+[InstantComet/SunlessSea](https://github.com/InstantComet/SunlessSea) 簡體中文譯本的譯者在 `events.json` 中留下的翻譯，是本專案制定風格指南時的重要參考——從中歸納出克蘇魯文體的中文處理方式，以及術語譯名的選擇方向。在此致謝。
+
+---
+
 ## 版權聲明
 
 All game content belongs to Failbetter Games. This is a non-commercial fan translation project.
 
-本翻譯為獨立製作，從英文原文翻譯，與其他語言翻譯專案無從屬關係。
+本翻譯從英文原文獨立翻譯，文字內容與簡體中文譯本無直接從屬關係。
