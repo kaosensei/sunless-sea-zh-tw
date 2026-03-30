@@ -51,6 +51,9 @@ addon/
       exchanges.json
     encyclopaedia/
       Tutorials.json
+      SpawnedEntities.json
+      CombatItems.json
+      CombatAttacks.json
     geography/
       Tiles.json
 ```
